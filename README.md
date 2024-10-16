@@ -15,3 +15,7 @@ videos.jsp: Demo video page that allows user to watch a video.
 aboutus.jsp: Demo about us page.
 
 Logout.java: Logs user out using session management and redirects user to the login page.
+
+To run: 
+1.) Connect project to a server(Apache Tomcat or similar) and run.  
+2.) Visit server link (ex: "http://localhost:8080/LoginModule/welcome.jsp").
