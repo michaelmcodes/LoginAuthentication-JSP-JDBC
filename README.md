@@ -1,4 +1,4 @@
-# LoginAuthentication-JSPServlet
+# LoginAuthentication-JSP-JDBC
 
 Java project to showcase Login authentication using servlets, jsps, and jdbc with MySQL. Uses session manager to keep user logged in throughout the session.
 
